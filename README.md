@@ -1,8 +1,11 @@
-# Classification-of-Fine-Dust-Concentration-in-Seoul
-## 서울시 미세먼지 농도 분류 모델
+# Classification-of-Fine-Dust-Concentration-in-Seoul  
+# 서울시 미세먼지 농도 분류 모델  
+
+A Project that predicts and classifies the level of fine dust concentratin in Seoul by using Public Data.  
 공공데이터를 활용하여 서울시의 각 구별 미세먼지 농도 단계를 분류 및 예측하는 프로젝트 입니다.  
 
-아래는 프로젝트 발표를 하면서 제작한 요약 PPT입니다.  
+Below is a summary PPT produced during the project presentation.  
+아래는 프로젝트 발표를 하면서 제작한 요약 PPT입니다.    
 
 ![슬라이드1](https://user-images.githubusercontent.com/83996346/173969795-7a105b0a-aabc-44b8-9017-4693e44827ac.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/83996346/173969807-a092ced8-0460-4932-978f-461e4d0b2958.PNG)
